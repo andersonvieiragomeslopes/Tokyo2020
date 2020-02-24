@@ -168,6 +168,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AthletesController.cs" />
+    <Compile Include="Controllers\CountriesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -237,6 +239,16 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Athletes\Create.cshtml" />
+    <Content Include="Views\Athletes\Delete.cshtml" />
+    <Content Include="Views\Athletes\Details.cshtml" />
+    <Content Include="Views\Athletes\Edit.cshtml" />
+    <Content Include="Views\Athletes\Index.cshtml" />
+    <Content Include="Views\Countries\Create.cshtml" />
+    <Content Include="Views\Countries\Delete.cshtml" />
+    <Content Include="Views\Countries\Details.cshtml" />
+    <Content Include="Views\Countries\Edit.cshtml" />
+    <Content Include="Views\Countries\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
