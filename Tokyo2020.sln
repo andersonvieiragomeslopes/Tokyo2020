@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokyo2020.Domain", "Tokyo20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokyo2020.AdministrativePanel", "Tokyo2020.AdministrativePanel\Tokyo2020.AdministrativePanel.csproj", "{99D7AD93-FC32-4C15-B65D-49758C8F0C13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokyo2020.WebApi", "Tokyo2020.WebApi\Tokyo2020.WebApi.csproj", "{681D8977-A3EB-4F4C-8751-1A41AA3B6924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,18 @@ Global
 		{99D7AD93-FC32-4C15-B65D-49758C8F0C13}.Release|iPhone.Build.0 = Release|Any CPU
 		{99D7AD93-FC32-4C15-B65D-49758C8F0C13}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{99D7AD93-FC32-4C15-B65D-49758C8F0C13}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|iPhone.Build.0 = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{681D8977-A3EB-4F4C-8751-1A41AA3B6924}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
